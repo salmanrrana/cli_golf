@@ -1,0 +1,415 @@
+Last login: Mon Feb 27 17:51:53 on console
+-bash: alias: : not found
+ GA General Assembly  Web Development Immersive 
+------------------------------------------
+git version 2.10.1
+Homebrew 1.1.10 Homebrew/homebrew-core (git revision 28c4; last commit 2017-02-27)
+ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin16]
+node v7.6.0
+psql (PostgreSQL) 9.6.2
+------------------------------------------
+type unwelcome to remove this message
+summmmmi ~
+$ cd
+summmmmi ~
+$ ls
+2	       Documents/  Movies/    Public/  emmet-atom/
+Applications/  Downloads/  Music/     World/   funny_things/
+Desktop/       Library/    Pictures/  code/
+summmmmi ~
+$ homework
+summmmmi ~/code/wdi/wdi-atx-10/homework
+$ 
+
+  [Restored Feb 27, 2017, 8:45:02 PM]
+Last login: Mon Feb 27 20:44:55 on console
+Restored session: Mon Feb 27 17:56:35 CST 2017
+-bash: alias: : not found
+ GA General Assembly  Web Development Immersive 
+------------------------------------------
+git version 2.10.1
+Homebrew 1.1.10 Homebrew/homebrew-core (git revision 28c4; last commit 2017-02-27)
+ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin16]
+node v7.6.0
+psql (PostgreSQL) 9.6.2
+------------------------------------------
+type unwelcome to remove this message
+summmmmi ~/code/wdi/wdi-atx-10/homework
+$ clear
+
+summmmmi ~/code/wdi/wdi-atx-10/homework
+$ cd
+summmmmi ~
+$ ls
+2	       Documents/  Movies/    Public/  emmet-atom/
+Applications/  Downloads/  Music/     World/   funny_things/
+Desktop/       Library/    Pictures/  code/
+summmmmi ~
+$ homework
+summmmmi ~/code/wdi/wdi-atx-10/homework
+$ ls
+kitchen/
+summmmmi ~/code/wdi/wdi-atx-10/homework
+$ cd kitchen/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+cans.txt  fridge/  pantry/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd pantry
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ ls
+cans.txt  cereal.txt  crisper-drawer/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+cans.txt  fridge/  pantry/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ rm cans.txt
+removed 'cans.txt'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd pantry/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ ls
+cans.txt  cereal.txt  crisper-drawer/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ cp -r crisper-drawer/
+gcp: missing destination file operand after 'crisper-drawer/'
+Try 'gcp --help' for more information.
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ ls
+cans.txt  cereal.txt  crisper-drawer/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ cp crisper-drawer/
+gcp: missing destination file operand after 'crisper-drawer/'
+Try 'gcp --help' for more information.
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ man ls
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ cp -r crisper-drawer/
+gcp: missing destination file operand after 'crisper-drawer/'
+Try 'gcp --help' for more information.
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ cp crisper-drawer/
+gcp: missing destination file operand after 'crisper-drawer/'
+Try 'gcp --help' for more information.
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ pwd
+/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/pantry
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ ls
+cans.txt  cereal.txt  crisper-drawer/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ rm crisper-drawer/
+grm: cannot remove 'crisper-drawer/': Is a directory
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ rm -r crisper-drawer/
+removed 'crisper-drawer/lettuce.txt'
+removed directory 'crisper-drawer/'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ ls
+cans.txt  cereal.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ pwd
+/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/pantry
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ la
+-bash: la: command not found
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd pantry/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ ls
+cans.txt  cereal.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd fridge/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+diapers.txt  freezer/  milk.txt  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ rm diapers.txt 
+removed 'diapers.txt'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+freezer/  milk.txt  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cp milk.txt 
+gcp: missing destination file operand after 'milk.txt'
+Try 'gcp --help' for more information.
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+freezer/  milk.txt  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cp -r trashcan/ ~/code/wdi/wdi-atx-10/homework/kitchen/
+'trashcan/' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/trashcan'
+'trashcan/banana-peels.txt' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/trashcan/banana-peels.txt'
+'trashcan/chicken-bones.txt' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/trashcan/chicken-bones.txt'
+'trashcan/egg-shells.txt' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/trashcan/egg-shells.txt'
+'trashcan/sink' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink'
+'trashcan/sink/clean-dishes.txt' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink/clean-dishes.txt'
+'trashcan/sink/delete-me.txt' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink/delete-me.txt'
+'trashcan/sink/dirty-dishes.txt' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink/dirty-dishes.txt'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+freezer/  milk.txt  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd fridge/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+freezer/  milk.txt  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ rm trashcan/
+grm: cannot remove 'trashcan/': Is a directory
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ rm -r trashcan/
+removed 'trashcan/banana-peels.txt'
+removed 'trashcan/chicken-bones.txt'
+removed 'trashcan/egg-shells.txt'
+removed 'trashcan/sink/clean-dishes.txt'
+removed 'trashcan/sink/delete-me.txt'
+removed 'trashcan/sink/dirty-dishes.txt'
+removed directory 'trashcan/sink'
+removed directory 'trashcan/'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+freezer/  milk.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cd freezer/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/freezer
+$ ls
+couch.txt  frozenpeas.txt  icecream.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/freezer
+$ rm couch.txt 
+removed 'couch.txt'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/freezer
+$ ls
+frozenpeas.txt	icecream.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/freezer
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ pwd
+/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/fridge
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+freezer/  milk.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ ls
+banana-peels.txt  chicken-bones.txt  egg-shells.txt  sink/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ cd sink/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
+$ ls
+clean-dishes.txt  delete-me.txt  dirty-dishes.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
+$ rm delete-me.txt 
+removed 'delete-me.txt'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
+$ ls
+clean-dishes.txt  dirty-dishes.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
+$ pwd
+/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
+$ ls
+clean-dishes.txt  dirty-dishes.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ ls
+banana-peels.txt  chicken-bones.txt  egg-shells.txt  sink/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ cp -r sink/ ~/code/wdi/wdi-atx-10/homework/kitchen/
+'sink/' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/sink'
+'sink/clean-dishes.txt' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/sink/clean-dishes.txt'
+'sink/dirty-dishes.txt' -> '/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/sink/dirty-dishes.txt'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ ls
+banana-peels.txt  chicken-bones.txt  egg-shells.txt  sink/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  sink/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ ls
+banana-peels.txt  chicken-bones.txt  egg-shells.txt  sink/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ rm -r sink/
+removed 'sink/clean-dishes.txt'
+removed 'sink/dirty-dishes.txt'
+removed directory 'sink/'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ ls
+banana-peels.txt  chicken-bones.txt  egg-shells.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  sink/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd sink/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink
+$ ls
+clean-dishes.txt  dirty-dishes.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink
+$ mkdir drying-rack
+gmkdir: created directory 'drying-rack'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink
+$ ls
+clean-dishes.txt  dirty-dishes.txt  drying-rack/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink
+$ mv clean-dishes.txt drying-rack/
+'clean-dishes.txt' -> 'drying-rack/clean-dishes.txt'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink
+$ ls
+dirty-dishes.txt  drying-rack/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink
+$ cd drying-rack/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink/drying-rack
+$ ls
+clean-dishes.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink/drying-rack
+$ cd ../../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  sink/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd pantry/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ ls
+cans.txt  cereal.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  sink/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd fridge/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+freezer/  milk.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ mkdir crisper-drawer
+gmkdir: created directory 'crisper-drawer'
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+crisper-drawer/  freezer/  milk.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cd crisper-drawer/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/crisper-drawer
+$ ls
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/crisper-drawer
+$ touch apples.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/crisper-drawer
+$ touch lettuce.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/crisper-drawer
+$ ls
+apples.txt  lettuce.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/crisper-drawer
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ pwd
+/Users/summmmmi/code/wdi/wdi-atx-10/homework/kitchen/fridge
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+crisper-drawer/  freezer/  milk.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cd crisper-drawer/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/crisper-drawer
+$ ls
+apples.txt  lettuce.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/crisper-drawer
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+crisper-drawer/  freezer/  milk.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  sink/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd fridge/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+crisper-drawer/  freezer/  milk.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cd crisper-drawer/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/crisper-drawer
+$ ls
+apples.txt  lettuce.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/crisper-drawer
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cd freezer/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/freezer
+$ ls
+frozenpeas.txt	icecream.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/freezer
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ ls
+crisper-drawer/  freezer/  milk.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  sink/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd pantry/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ ls
+cans.txt  cereal.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/pantry
+$ cd ../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  sink/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd sink/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink
+$ ls
+dirty-dishes.txt  drying-rack/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink
+$ cd drying-rack/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink/drying-rack
+$ ls
+clean-dishes.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/sink/drying-rack
+$ cd ../../
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ ls
+fridge/  pantry/  sink/  trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen
+$ cd trashcan/
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ ls
+banana-peels.txt  chicken-bones.txt  egg-shells.txt
+summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
+$ 
