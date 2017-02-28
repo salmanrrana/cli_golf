@@ -1,6 +1,6 @@
 Last login: Mon Feb 27 17:51:53 on console
 -bash: alias: : not found
- GA General Assembly  Web Development Immersive 
+ GA General Assembly  Web Development Immersive
 ------------------------------------------
 git version 2.10.1
 Homebrew 1.1.10 Homebrew/homebrew-core (git revision 28c4; last commit 2017-02-27)
@@ -19,13 +19,13 @@ Desktop/       Library/    Pictures/  code/
 summmmmi ~
 $ homework
 summmmmi ~/code/wdi/wdi-atx-10/homework
-$ 
+$
 
   [Restored Feb 27, 2017, 8:45:02 PM]
 Last login: Mon Feb 27 20:44:55 on console
 Restored session: Mon Feb 27 17:56:35 CST 2017
 -bash: alias: : not found
- GA General Assembly  Web Development Immersive 
+ GA General Assembly  Web Development Immersive
 ------------------------------------------
 git version 2.10.1
 Homebrew 1.1.10 Homebrew/homebrew-core (git revision 28c4; last commit 2017-02-27)
@@ -139,13 +139,13 @@ summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
 $ ls
 diapers.txt  freezer/  milk.txt  trashcan/
 summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
-$ rm diapers.txt 
+$ rm diapers.txt
 removed 'diapers.txt'
 summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
 $ ls
 freezer/  milk.txt  trashcan/
 summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
-$ cp milk.txt 
+$ cp milk.txt
 gcp: missing destination file operand after 'milk.txt'
 Try 'gcp --help' for more information.
 summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge
@@ -196,7 +196,7 @@ summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/freezer
 $ ls
 couch.txt  frozenpeas.txt  icecream.txt
 summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/freezer
-$ rm couch.txt 
+$ rm couch.txt
 removed 'couch.txt'
 summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/fridge/freezer
 $ ls
@@ -225,7 +225,7 @@ summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
 $ ls
 clean-dishes.txt  delete-me.txt  dirty-dishes.txt
 summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
-$ rm delete-me.txt 
+$ rm delete-me.txt
 removed 'delete-me.txt'
 summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan/sink
 $ ls
@@ -412,4 +412,6 @@ summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
 $ ls
 banana-peels.txt  chicken-bones.txt  egg-shells.txt
 summmmmi ~/code/wdi/wdi-atx-10/homework/kitchen/trashcan
-$ 
+$
+
+final!
